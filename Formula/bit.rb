@@ -1,4 +1,4 @@
-class BiliTools < Formula
+class Bit < Formula
   desc "B站终端多功能工具箱 (Bilibili CLI toolbox)"
   homepage "https://github.com/qwerprog/bili-tools"
   version "1.0.1"
